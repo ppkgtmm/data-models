@@ -5,7 +5,7 @@ or KMUTT. The repo is separated into folders, each with lecture code and my answ
 ## :gear: Tools
 - [x] Anaconda : package manager
 - [x] Jupyter Notebook : environment
-- [x] R : kernel
+- [x] R : programming language
 - [x] tidyverse : data preparation and visualization
 - [x] igraph : network analysis
 - [x] corrplot : data visualization
