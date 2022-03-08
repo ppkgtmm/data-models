@@ -15,3 +15,16 @@ or KMUTT
 - [Lab 6](https://github.com/ppkgtmm/data-models/blob/main/L6%20-%20Network%20analysis/Exercise.ipynb) - Do network manipulation, visualization, descriptive statistics computation and interpretation
 - [Lab 7](https://github.com/ppkgtmm/data-models/blob/main/L7%20-%20Model%20statistical%20distribution/Exercise.ipynb) - Learn about statistical probability distributions and cummulative probability distribution of data
 - [Lab 8](https://github.com/ppkgtmm/data-models/blob/main/L8%20-%20Linear%20regression/Exercise.ipynb) - Explore data, experiment and create linear regression models for daily demand forcasting
+
+## Sample work
+- Data visualization
+
+ <img width=800 src="https://user-images.githubusercontent.com/57994731/157262994-3748696d-650b-4751-8c17-d7afee234dde.png" />
+ 
+ **Observation**
+  > Bank faced failure in previous marketing campaign for majority of customers who did not subscribe to term deposit
+  > Proportion of customers who did not subscribed but have successful previous marketing campaign outcome is not neglectable especially for customers having age between 18 - 25 and above 55. As an alternative, bank could ask for opinions related to term deposit from these two groups to create personalized offers if possible
+
+- Network analysis
+    - Network below represents association between dolphins where male dolphins are squares and females are circles. The pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
+<img src="https://user-images.githubusercontent.com/57994731/157267857-64954e25-7916-4f47-9bd4-1b6f9ad3376d.png" />
