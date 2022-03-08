@@ -5,12 +5,5 @@
 or KMUTT
 - Each folder contains lecture code and my answers to lab given for corresponding class
  
-## :gear: Tools
-- [x] Anaconda : package manager
-- [x] Jupyter Notebook : environment
-- [x] R : programming language
-- [x] tidyverse : data preparation and visualization
-- [x] igraph : network analysis
-- [x] corrplot : data visualization
-- [x] rpart : decision tree model
-- [x] caret : evaluation
+## Tools
+<img width=700 src="https://user-images.githubusercontent.com/57994731/157254262-e59bc86c-dc00-4cdc-9a50-c33624ca3a0a.png" />
