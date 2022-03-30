@@ -5,7 +5,7 @@
 or KMUTT
 - Each folder contains lecture code and my answers to lab (if any) given for corresponding class
  
-## Tools
+## Tools and technologies
 <img width=700 src="https://user-images.githubusercontent.com/57994731/157254262-e59bc86c-dc00-4cdc-9a50-c33624ca3a0a.png" />
 
 ## Walk through
