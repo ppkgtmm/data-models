@@ -26,6 +26,6 @@ or KMUTT
 
 ### Network analysis
 
-<img width=800 src="https://user-images.githubusercontent.com/57994731/157267857-64954e25-7916-4f47-9bd4-1b6f9ad3376d.png" />
+<img width=800 src="https://user-images.githubusercontent.com/57994731/161757357-881dc46f-6c95-4f41-a917-941c3de3c8c7.png" />
 
  - Network below represents association between dolphins where male dolphins are squares and females are circles. The pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
