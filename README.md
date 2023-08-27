@@ -14,15 +14,13 @@ Repo created to store code from Data Models (a.k.a. Data Modeling and Visualizat
 - [lab 8](https://github.com/ppkgtmm/data-models/blob/main/L8%20-%20Linear%20regression/Exercise.ipynb) explore data, experiment and create linear regression models for daily demand forcasting
 
 ## Sample work
-- Data visualization
-
+1. Data visualization
  <img width=800 src="https://user-images.githubusercontent.com/57994731/157262994-3748696d-650b-4751-8c17-d7afee234dde.png" />
 
-  - Bank faced failure in previous marketing campaign for majority of customers who did not subscribe to term deposit
-  - Proportion of customers who did not subscribed but have successful previous marketing campaign outcome is not neglectable especially for customers having age between 18 - 25 and above 55. As an alternative, bank could ask for opinions related to term deposit from these two groups to create personalized offers if possible
+- Bank faced failure in previous marketing campaign for majority of customers who did not subscribe to term deposit.
+- Proportion of customers who did not subscribed but have successful previous marketing campaign outcome is not neglectable especially for customers having age between 18 - 25 and above 55. As an alternative, bank could ask for opinions related to term deposit from these two groups to create personalized offers if possible
 
-- Network analysis
-
+2. Network analysis
 <img width=800 src="https://user-images.githubusercontent.com/57994731/161757357-881dc46f-6c95-4f41-a917-941c3de3c8c7.png" />
 
- - Network below represents association between dolphins where male dolphins are squares and females are circles. The pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
+Network below represents association between dolphins where male dolphins are squares and females are circles. The pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
