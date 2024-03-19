@@ -13,14 +13,17 @@ kmutt cpe 213 data models coursework where each folder contains lecture code and
 ## technologies
 <img width=700 src="https://user-images.githubusercontent.com/57994731/157254262-e59bc86c-dc00-4cdc-9a50-c33624ca3a0a.png" />
 
-## Sample work
-1. Data visualization
- <img width=800 src="https://user-images.githubusercontent.com/57994731/157262994-3748696d-650b-4751-8c17-d7afee234dde.png" />
+## sample work
+- data visualization
 
-- Bank faced failure in previous marketing campaign for majority of customers who did not subscribe to term deposit.
-- Proportion of customers who did not subscribed but have successful previous marketing campaign outcome is not neglectable especially for customers having age between 18 - 25 and above 55. As an alternative, bank could ask for opinions related to term deposit from these two groups to create personalized offers if possible
+<img width=800 src="https://user-images.githubusercontent.com/57994731/157262994-3748696d-650b-4751-8c17-d7afee234dde.png" />
 
-2. Network analysis
+**description**
+> bank faced failure in previous marketing campaign for majority of customers who did not subscribe to term deposit. proportion of customers who did not subscribed but have successful previous marketing campaign outcome is not neglectable especially for customers having age between 18 - 25 and above 55. alternatively, bank could ask for opinions related to term deposit from these two groups to create personalized offers if possible
+
+- network analysis
+
 <img width=800 src="https://user-images.githubusercontent.com/57994731/161757357-881dc46f-6c95-4f41-a917-941c3de3c8c7.png" />
 
-Network below represents association between dolphins where male dolphins are squares and females are circles. The pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
+**description**
+> network represents association between dolphins where male dolphins are squares and females are circles. pink edges denote cross gender associations while the grey edge between pair of vertices (dolphins) denote same gender association
